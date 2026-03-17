@@ -1,5 +1,4 @@
 // Cedar Policy: Admin Full Access
-// Requirements: 2.2
 // Admin users have full access to all documents for all operations
 
 permit(

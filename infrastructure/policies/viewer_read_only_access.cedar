@@ -1,5 +1,4 @@
 // Cedar Policy: Viewer Read-Only Access
-// Requirements: 2.5
 // Viewer users have read-only access to documents shared with them
 
 permit(

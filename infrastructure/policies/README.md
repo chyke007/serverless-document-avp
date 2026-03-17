@@ -5,7 +5,6 @@ This directory contains Cedar policy files for role-based access control in the 
 ## Policy Files
 
 ### 1. admin_full_access.cedar
-**Requirements: 2.2**
 
 Grants Admin users full access to all documents for all operations (read, write, delete, share).
 
@@ -15,7 +14,6 @@ Grants Admin users full access to all documents for all operations (read, write,
 - Grants access to all actions on all resources
 
 ### 2. manager_departmental_access.cedar
-**Requirements: 2.3**
 
 Grants Manager users access to manage documents within their department.
 
@@ -27,7 +25,6 @@ Grants Manager users access to manage documents within their department.
 - Grants access to read, write, delete, and share actions
 
 ### 3. editor_owned_shared_access.cedar
-**Requirements: 2.4**
 
 Grants Editor users access to read and write documents they own or have been shared with.
 
@@ -41,7 +38,6 @@ Grants Editor users access to read and write documents they own or have been sha
 - Grants access to read and write actions only
 
 ### 4. viewer_read_only_access.cedar
-**Requirements: 2.5**
 
 Grants Viewer users read-only access to documents shared with them.
 

@@ -1,5 +1,4 @@
 // Cedar Policy: Document Owner Permissions
-// Requirements: 2.2, 2.3, 2.4, 2.5 (implicit - owners always have full access)
 // Document owners can always manage their own documents regardless of role
 
 permit(
