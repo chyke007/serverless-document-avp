@@ -29,6 +29,10 @@ Enterprise-grade document management system built on AWS, showcasing production-
   <img src="architecture/full-architecture.png" alt="Full System Architecture" width="650">
 </p>
 
+<p align="center">
+  <img src="architecture/full-architecture_2.png" alt="Full System Architecture" width="650">
+</p>
+
 
 ### API security (Cognito + AVP)
 

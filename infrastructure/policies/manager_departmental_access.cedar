@@ -1,5 +1,4 @@
 // Cedar Policy: Manager Departmental Access
-// Requirements: 2.3
 // Manager users can manage documents in their department
 
 permit(
